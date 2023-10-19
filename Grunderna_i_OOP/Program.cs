@@ -7,13 +7,11 @@
             Circle firstCircle = new Circle(5);
             Circle secondCircle = new Circle(6);
             Triangle firstTriangle = new Triangle(7, 8);
-            firstCircle.GetArea();
+            firstCircle.PrintAllInfo();
 
-            secondCircle.GetArea(); 
+            secondCircle.PrintAllInfo(); 
 
-            firstCircle.GetSphereVolume();
-
-            firstCircle.GetSphereArea();
+            
 
             firstTriangle.TriangleArea();
 
