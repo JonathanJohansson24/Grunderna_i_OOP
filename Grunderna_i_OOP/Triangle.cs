@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Grunderna_i_OOP
-{
+{                                                   // JONATHAN NORDIN SUT23
     internal class Triangle
     {
         public int BaseNr;
